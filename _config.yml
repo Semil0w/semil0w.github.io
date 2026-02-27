@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Matthew R. Gonzales"
 title_separator          : "-"
 name                     : &name "Matthew Gonzales"
@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Arlington Texas"
-  employer         : "University of Texas at Arlington"
+  employer         : "UT Arlington"
   uri              : # URL
   email            : "Matthew.Gonzales.2026@gmail.com" 
 
