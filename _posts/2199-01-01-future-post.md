@@ -8,7 +8,7 @@ tags:
   - achievements
 ---
 
-![Graduation Cap Toss](/images/bio-photo.jpg)
+<!-- ![Graduation Cap Toss](/images/bio-photo.jpg) -->
 
 Today marks a milestone I’ve been working toward for years — graduation! 🎉  
 
