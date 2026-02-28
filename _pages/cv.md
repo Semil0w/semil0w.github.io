@@ -44,7 +44,12 @@ The University of Texas at Arlington
 - Comparative Economic Systems  
 
 ### Accounting
-- Accounting Information Systems | Financial Accounting I & II  | Federal Income Tax  | Cost Analysis & Decision Making | Management Planning & Control | Professionalism in Accounting  
+- Accounting Information Systems  
+- Financial Accounting I & II  
+- Federal Income Tax  
+- Cost Analysis & Decision Making  
+- Management Planning & Control  
+- Professionalism in Accounting  
 
 ---
 
